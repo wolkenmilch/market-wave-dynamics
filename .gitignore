@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NetLogo
+*.nlogo
+*.nls
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Other
+*.bak
+docs/Preprint.pdf
+
