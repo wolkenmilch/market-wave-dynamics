@@ -6,7 +6,6 @@ Thumbs.db
 *.log
 
 # NetLogo
-*.nlogo
 *.nls
 
 # Python
@@ -21,4 +20,5 @@ build/
 # Other
 *.bak
 docs/Preprint.pdf
+*.pdf
 
