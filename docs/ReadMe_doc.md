@@ -1,8 +1,8 @@
-# CryptoWaveDynamics
+# Market Wave Dynamics
 
-Dive into the intricate world of financial markets with the [CryptoWaveDynamics](https://juicyjons.github.io/CryptoWaveDynamics.html) model! Inspired by Bitcoin trading dynamics, this simulation explores the behaviors and strategies of financial agents and how they shape the market landscape.
+Dive into the intricate world of financial markets with the [Market Wave Dynamics](https://wolkenmilch.github.io/market-wave-dynamics/) model! Inspired by Bitcoin trading dynamics, this simulation explores the behaviors and strategies of financial agents and how they shape the market landscape.
 
-Eager to experiment with the model or contribute to its growth? Dive into the [Documentation](Docs/Documentation.md) for detailed guidance and insights!
+Eager to experiment with the model or contribute to its growth? Dive into the [Documentation](docs/Documentation.md) for detailed guidance and insights!
 
 ## Table of Contents
 - [What is it?](#what-is-it)
@@ -143,7 +143,6 @@ By manipulating the controls and observing the outcomes, you can gain insights i
 - Pay attention to the various figures and panels in the model output. Adjust parameters and observe how these visual representations change. This can provide insights into the underlying dynamics and how different factors are interrelated.
 
 ## Extending the Model
-
 
 While the current implementation captures many features of financial markets, there are several avenues for further enhancement and refinement:
 
