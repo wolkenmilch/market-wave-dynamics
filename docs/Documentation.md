@@ -25,7 +25,7 @@ Note: For a detailed understanding of each parameter and its implications, refer
 
 ## Running the Model: A Basic Guide
 
-[CryptoWaveDynamics](https://juicyjons.github.io/CryptoWaveDynamics.html)
+[Market Wave Dynamics](https://wolkenmilch.github.io/web-model.html)
 
 ### Buttons:
 - **Setup**: Click this button first to initialize the model. It sets up the agents and defines the initial conditions based on the parameters set by the sliders and switches.
