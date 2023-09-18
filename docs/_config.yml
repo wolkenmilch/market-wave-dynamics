@@ -1,12 +1,12 @@
-# Site settings
-title: "Market Wave Dynamics"
-baseurl: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
-url: "https://wolkenmilch.github.io" # Replace 'username' with your GitHub username
-permalink: /:title/
-
 # If you're using the jekyll-remote-theme plugin to use the layout from your user page:
 plugins:
   - jekyll-remote-theme
 
 remote_theme: wolkenmilch/wolkenmilch.github.io # Replace 'username' with your GitHub username.
+
+# Site settings
+title: "Market Wave Dynamics"
+baseurl: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
+url: "https://wolkenmilch.github.io" # Replace 'username' with your GitHub username
+permalink: /:title/
 
