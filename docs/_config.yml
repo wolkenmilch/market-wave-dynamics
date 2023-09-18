@@ -7,7 +7,6 @@ remote_theme: pages-themes/minimal # Replace 'username' with your GitHub usernam
 # Site settings
 layout: post
 title: "Market Wave Dynamics"
-logo: /market-wave-dynamics/Screenshot-WebModel.png
 baseurl: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
 url: "https://wolkenmilch.github.io" # Replace 'username' with your GitHub username
 
