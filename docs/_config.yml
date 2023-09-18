@@ -9,6 +9,6 @@ layout: post
 title: "Market Wave Dynamics"
 toc: true
 show_downloads: true
-baseurl: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
+base_url: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
 url: "https://wolkenmilch.github.io" # Replace 'username' with your GitHub username
 
