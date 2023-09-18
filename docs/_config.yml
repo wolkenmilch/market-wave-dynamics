@@ -9,5 +9,4 @@ layout: post
 title: "Market Wave Dynamics"
 baseurl: "/market-wave-dynamics" # Replace 'repository-name' with the name of your project repository
 url: "https://wolkenmilch.github.io" # Replace 'username' with your GitHub username
-permalink: /:title/
 
