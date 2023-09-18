@@ -1,11 +1,12 @@
 ---
 layout: project
 title: Market Wave Dynamics
+pic_url: /market-wave-dynamics/Screenshot-WebModel.png
 excerpt: "
 **An agent-based financial market Model**  
 
 <div style='text-align: left;'>
-    <img class='responsive-img' src='./Screenshot-WebModel.png' style='max-width: 50%;float: left; margin-right: 10px;'>
+    <img class='responsive-img' src='/market-wave-dynamics/Screenshot-WebModel.png' style='max-width: 50%;float: left; margin-right: 10px;'>
 </div>
 
 Welcome to our agent-based financial market model! This innovative tool simulates the intricate dynamics of financial markets by considering diverse agent behaviors, market shocks, and even psychological factors like the Fear of Missing Out (FOMO). Whether you're a researcher, student, or just curious about financial markets, this model offers valuable insights into how different factors shape market outcomes.
