@@ -1,13 +1,11 @@
 ---
 layout: project
 title: Market Wave Dynamics
-features: NetLogo 6.2.0, Python 3.10
-description: "An agent-based financial market simulation that delves into the intricate dynamics of trading behaviors, highlighting the influence of psychological factors like FOMO on market outcomes."
 excerpt: "
 **An agent-based financial market Model**  
 
 <div style='text-align: left;'>
-    <img class='responsive-img' src='Screenshot-WebModel.png' style='max-width: 50%;float: left; margin-right: 10px;'>
+    <img class='responsive-img' src='./Screenshot-WebModel.png' style='max-width: 50%;float: left; margin-right: 10px;'>
 </div>
 
 Welcome to our agent-based financial market model! This innovative tool simulates the intricate dynamics of financial markets by considering diverse agent behaviors, market shocks, and even psychological factors like the Fear of Missing Out (FOMO). Whether you're a researcher, student, or just curious about financial markets, this model offers valuable insights into how different factors shape market outcomes.
