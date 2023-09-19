@@ -1,6 +1,6 @@
 # CryptoWaveDynamics
 
-Dive into the intricate world of financial markets with the [CryptoWaveDynamics](https://wolkenmilch.github.io/market-wave-dynamics.html) model! Inspired by Bitcoin trading dynamics, this simulation explores the behaviors and strategies of financial agents and how they shape the market landscape.
+Dive into the intricate world of financial markets with the [CryptoWaveDynamics](https://wolkenmilch.github.io/simple-web.html) model! Inspired by Bitcoin trading dynamics, this simulation explores the behaviors and strategies of financial agents and how they shape the market landscape.
 
 Eager to experiment with the model or contribute to its growth? Dive into the [Documentation](docs/Documentation.md) for detailed guidance and insights!
 
