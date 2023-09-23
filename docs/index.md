@@ -1,38 +1,39 @@
+# Markets Inflow Dynamics - an Agent-Based Model in NetLogo
 
-## Introduction
+Explore, understand, and contribute to a comprehensive model simulating financial markets.
 
-Welcome to our agent-based financial market model! This innovative tool simulates the intricate dynamics of financial markets by considering diverse agent behaviors, market shocks, and even psychological factors like the Fear of Missing Out (FOMO). Whether you're a researcher, student, or just curious about financial markets, this model offers valuable insights into how different factors shape market outcomes.
+![Screenshot of the Web Model](Screenshot-WebModel.png)
 
-<iframe src="web-model.html" width="100%" height="1000px"></iframe>
-*View the [Model](web-model.html)  in a seperate window*
+Get a hands-on feel of the model through our interactive [Web Model](web-model.html). 
 
-## Quickstart Guide
+Conduct some Experiments ???
 
-1. **Accessing the Model**:
-   - As you're already on the homepage, you'll find the model interface directly above this guide.
+## Documentation
 
-2. **Setting Parameters**:
-   - Familiarize yourself with the various sliders and switches on the interface. These control parameters like the percentage of talking agents (`perc-talk`), chartist reaction parameters (`chart_react_param`), and more.
-   - Adjust these parameters to set up the initial conditions for your simulation.
+For People who want to use the model
 
-3. **Initialize the Model**:
-   - Click on the `Setup` button. This prepares the model environment, placing agents and setting initial conditions.
+- [Qick Start Guide](QuickStartGuide.md)
+- [Web Model](web-model.html)
 
-4. **Run the Simulation**:
-   - Hit the `Start` button to commence the simulation. Watch as agents interact, make decisions, and influence market dynamics in real-time.
-   - You can pause the simulation anytime by pressing the `Start` button again.
-
-5. **Analyze Outputs**:
-   - Observe the various plots like 'Market Participants,' 'Traders Inflow,' and 'Price-Chart' to gain insights into market dynamics under the conditions you've set.
-   - Adjust parameters and rerun the simulation to see how different settings influence outcomes.
-
-6. **Deep Dive**:
-   - If you wish to delve deeper into the intricacies of the model, its formulation, or want to understand specific parameters in detail, please refer to the following documents:
-
-## Documents
+For People who want to understand its internals
 
 - [ReadMe](ReadMe_doc.md)
-- [Documentation](Documentation.md)  
+- [Documentation](Documentation.md)
+- [Understanding the Model]()
 
+## The Models
 
+- [Web Model](web-model.html)
+- [Simple NetLogo Model](relative/path/to/simple/model.nlogo) - A foundational representation.
+- [Complex NetLogo Model](relative/path/to/complex/model.nlogo) - Advanced model with parameter settings and data export features.
 
+## Analytical Insights
+
+Examine the financial time series used for calibrating the model
+
+- [Reference Asset](Bitcoin-Timeseries)
+
+## Resources and Guides
+
+- [NetLogo Documentation](https://ccl.northwestern.edu/netlogo/docs/)
+- [NetLogo Installation Guide](https://ccl.northwestern.edu/netlogo/download.shtml)

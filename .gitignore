@@ -7,6 +7,7 @@ Thumbs.db
 
 # NetLogo
 *.nls
+*.tmp.nlogo
 
 # Python
 __pycache__/
@@ -16,9 +17,16 @@ __pycache__/
 dist/
 build/
 *.egg
+pyenv
+
+# Data
+*.pkl
+*.csv
 
 # Other
 *.bak
 docs/Preprint.pdf
 *.pdf
+*.svg
+docs/diagrams
 

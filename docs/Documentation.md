@@ -3,7 +3,6 @@
 
 ## Getting Started
 
-
 ### Overview
 This model was developed to explore the dynamics of financial markets by simulating various trading strategies and observing their impacts on market stability. It combines economic theories with computational simulation to offer a comprehensive understanding of market behaviors.
 

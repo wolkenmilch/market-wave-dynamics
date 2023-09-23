@@ -366,6 +366,7 @@ end
 
 ; Determine the probability of changing strategies based on the fitness of each strategy
 to change-probability
+
   ; Compare fitness of chartists and fundamentalists
   ; If chartists are more fit, they're less likely to become fundamentalists and vice versa
   let prob_talk_change 0.45
